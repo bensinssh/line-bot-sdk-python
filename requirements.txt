@@ -52,7 +52,7 @@ ruamel.yaml==0.15.89
 service-identity==18.1.0
 six==1.16.0
 sniffio==1.2.0
-sortedcontainers==2.1.0
+sortedcontainers==2.1
 soupsieve==2.2.1
 tornado==5.1.1
 Twisted==18.9.0
