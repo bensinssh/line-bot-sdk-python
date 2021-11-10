@@ -42,7 +42,7 @@ Pygments==2.3.1
 PyHamcrest==1.9.0
 pyOpenSSL==19.0.0
 pyparsing==2.4.6
-pyperclip==1.7.0
+pyperclip==1.7
 pytz==2021.1
 PyYAML==5.3.1
 requests==2.26.0
